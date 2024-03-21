@@ -1,2 +1,4 @@
-public class latihan
+public class latihan{
+    // latihan ku 
+}
 
